@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 👨‍💻 Estou apredendo Desenvolvimento Web com foco no Full-Stack.
 
 <div align="center">
