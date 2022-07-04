@@ -1,4 +1,4 @@
-- 👨‍💻 Estou apredendo Desenvolvimento Web com foco no Full-Stack.
+- 👨‍💻 Estou apredendo Desenvolvimento Web.
 
 <div align="center">
   <a href="https://github.com/wesquel">
