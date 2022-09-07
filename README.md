@@ -8,5 +8,9 @@
 
 <h4>Skills:</h4>
 <ul>
-  <li>Languages - JAVA, PHP, Python, Javascript, HTML and CSS</li>
+  <li>Languages - JAVA, PHP, Python, Javascript, HTML & CSS</li>
+  <li>Frameworks & Libraries - Bootstrap, Jquery, Laravel, Express JS, Spring & ReactJS</li>
+  <li>Databases - MySql & MongoDB</li>
+  <li>Tools and Technologies - Git, NPM, Artisan & Yarn</li>
+  <li>Areas for interests - Web Development & Fullstack Development</li>
 </ul>
