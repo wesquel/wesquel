@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wesquel&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### Hi there 👋
 
 <h4>I'm Weslley Addson, a Web Developer from Brazil.</h4>
