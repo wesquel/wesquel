@@ -14,8 +14,6 @@
   <li>Tools and Technologies - Git, NPM, Artisan & Yarn</li>
   <li>Areas for interests - Full Stack Development</li>
 </ul>
-
-
  
 <div style="display: inline_block"><br>
   <img align="center" alt="icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,8 +24,6 @@
   <img align="center" alt="icon Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="icon php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="icon java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+</div><br>
 
-<div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wesquel&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wesquel&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
